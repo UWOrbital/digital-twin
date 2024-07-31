@@ -1,0 +1,7 @@
+To run the photodiode model, you must first download the files: wavelength_sensitivity.csv and load_wavelength_data.m
+
+Save the .csv file and change the file path in the .m file
+
+Run the .m file
+
+You may now run the Photodiode model
